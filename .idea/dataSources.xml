@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="jdbc:hsqldb:file:E:\Java\Collection\src\com\test\properties\db.properties/" uuid="3930e9bd-0744-4cbc-ab9b-9746d1900f39">
+      <driver-ref>hsqldb.local</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>org.hsqldb.jdbc.JDBCDriver</jdbc-driver>
+      <jdbc-url>jdbc:hsqldb:file:E:\Java\Collection\src\com\test\properties\db.properties/</jdbc-url>
+    </data-source>
+  </component>
+</project>
